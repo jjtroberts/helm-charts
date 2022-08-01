@@ -3,6 +3,16 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-08-01T19:36:57.692978401Z"
+    description: A Helm chart for Kubernetes
+    digest: be4a9feb56d7fad05fbfcd0b8a1c4247779032e37db80745ee0c5f064532c389
+    name: nginx
+    type: application
+    urls:
+    - https://github.com/jjtroberts/helm-charts/releases/download/nginx-0.1.2/nginx-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-08-01T19:32:34.943024053Z"
     description: A Helm chart for Kubernetes
     digest: 78da25f5da1ba04ecdd74d70ffa689461a97f762b2d3c28400b8724eb38bf5d2
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/jjtroberts/helm-charts/charts/nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2022-08-01T19:32:34.943038554Z"
+generated: "2022-08-01T19:36:57.692989501Z"
